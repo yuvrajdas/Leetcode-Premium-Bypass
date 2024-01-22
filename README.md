@@ -41,8 +41,9 @@ Watch the installation guide on [YouTube](https://www.youtube.com/watch?v=tARc8Q
 ![Load Unpacked](https://github.com/31b4/Leetcode-Premium-Bypass/assets/75566095/3732c9af-b928-46d2-89a0-e0be17c46169)
 
 2. Select the unzipped folder from Step 1.
+   
+    Leetcode-Premium-Bypass-main seletec the Leetcode-Premium-Bypass-main folder
 
-![Select Folder](https://github.com/31b4/Leetcode-Premium-Bypass/assets/75566095/d55e46a0-510e-4090-9844-321a07e99154)
 
 ## Usage
 
